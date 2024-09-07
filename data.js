@@ -25,14 +25,14 @@ let dados = [
     descricao:
       'Desenvolvedora front-end e criadora de conteúdo no YouTube. Compartilha tutoriais e dicas de programação, com foco em JavaScript e React.',
     link: 'https://www.youtube.com/@SimaraConceicao',
-    tags: 'front-end, frontend, JavaScript, React, tutoriais, Desenvolvedora front-end, YouTube',
+    tags: 'front-end, frontend, front end, JavaScript, React, tutoriais, Desenvolvedora front-end, YouTube',
   },
   {
     titulo: 'Loiane Groner',
     descricao:
       'Desenvolvedora e instrutora, especialista em Java e Angular, autora de livros e cursos online. Compartilha conteúdos sobre programação e desenvolvimento front-end.',
     link: 'https://loiane.com',
-    tags: 'Java, Angular, programação, cursos online, livros, site, backend, back-end, back end',
+    tags: 'Java, Angular, programação, cursos online, livros, site, backend, back-end, back end, front end',
   },
   {
     titulo: 'Vanessa Tonini',
@@ -46,14 +46,14 @@ let dados = [
     descricao:
       'Desenvolvedora front-end e streamer na Twitch. Foca em acessibilidade, performance e desenvolvimento web, com projetos ao vivo.',
     link: 'https://www.twitch.tv/anaceciliavieira',
-    tags: 'front-end, acessibilidade, performance, desenvolvimento web, Twitch',
+    tags: 'front-end, front end, acessibilidade, performance, desenvolvimento web, Twitch',
   },
   {
     titulo: 'Lilit Bandeira',
     descricao:
       'Engenheira de software e desenvolvedora front-end, defensora da inclusão de mulheres e pessoas LGBTQIA+ na tecnologia.',
     link: 'https://www.linkedin.com/in/lilitbandeira',
-    tags: 'engenheira de software, front-end, inclusão, LinkedIn',
+    tags: 'engenheira de software, front-end, front end, inclusão, LinkedIn',
   },
   {
     titulo: 'Bruna Andrade',
