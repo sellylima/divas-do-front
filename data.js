@@ -4,7 +4,7 @@ let dados = [
         titulo : " Rafaella Ballerini",
         descricao : "Mais presente no Instagram, Rafaella compartilha conteúdos sobre HTML e CSS, além de dar opiniões sobre carreira, cursos e qual área da tecnologia seguir.",
         link : "https://www.youtube.com/@rafaellaballerini",
-        tags: "front-end frontend professora youtube influencer instagram"
+        tags: "front-end, frontend, front end"
     },
     {
         titulo: "Gabriela Vaz (Gabcodes)",
