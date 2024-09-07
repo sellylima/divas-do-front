@@ -5,7 +5,7 @@
 /* Estiliza o corpo da página */
 body {
     font-family: "Lato", sans-serif; /* Define a fonte padrão */
-    background-image: url(./assets/image1.jpg); /* Imagem de fundo da página */
+    background-image: url(./assets/banner.png); /* Imagem de fundo da página */
     background-size: cover;
     background-position: bottom;
     display: flex; /* Usa Flexbox para layout */
@@ -19,8 +19,8 @@ body {
 
 /* Estiliza os títulos h1 */
 h1 {
-    font-size: 6rem; /* Tamanho da fonte */
-    color: #FF5733; /* Cor do texto */
+    font-size: 5rem; /* Tamanho da fonte */
+    color: #00FFFF; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.3rem; /* Espaçamento entre letras */
     font-weight: 900;
@@ -52,7 +52,7 @@ section button {
     border: none; /* Remove a borda padrão */
     border-radius: 1.5rem; /* Borda arredondada */
     background-color: #FF5733; /* Cor de fundo do botão */
-    color: #F5F7F8; /* Cor do texto do botão */
+    color: #FFFFFF; /* Cor do texto do botão */
     font-size: 1rem; /* Tamanho da fonte */
     cursor: pointer; /* Muda o cursor para indicar que é clicável */
 }
@@ -75,8 +75,9 @@ section button:hover {
 
 /* Estiliza cada item de resultado */
 .item-resultado {
-    background-color: rgba(2, 2, 2, 0.8); /* Preto translúcido */
-    /* background: #cecece; Cor de fundo dos itens */
+    background-color: rgba(26, 26, 40, 0.7); /* Fundo escuro com transparência */
+    /* background-color: rgba(2, 2, 2, 0.6); /* Preto translúcido */
+   
     border-radius: 0.6rem; /* Borda arredondada */
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
@@ -121,6 +122,7 @@ footer {
 span {
     color:#cecece
 }
+
 
 @media (max-width: 768px) {
     h1 {
