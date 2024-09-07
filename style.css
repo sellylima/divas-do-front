@@ -26,6 +26,10 @@ h1 {
     font-weight: 900;
 }
 
+p {
+    color:#FFFF;
+}
+
 /* Estiliza as seções da página */
 section {
     display: flex; /* Usa Flexbox para layout */
