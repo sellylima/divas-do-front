@@ -38,6 +38,6 @@ e influenciadoras da área tech e veja suas descrições e links para redes soci
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-##### Desenvolvido por <span>Selly Lima</span> ❤
+##### Desenvolvido por <span>Selly Lima . Desafio Imersão Alura e Gemini </span> ❤
 
 </div>
